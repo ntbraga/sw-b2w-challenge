@@ -1,4 +1,4 @@
-### B2w Star Wars Challenge
+### B2W Star Wars Challenge
 
 * JDK 11
 * Maven 3.x

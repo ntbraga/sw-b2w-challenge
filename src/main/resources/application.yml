@@ -1,0 +1,13 @@
+info:
+  app:
+    name: @project.name@
+    description: @project.description@
+    version: @project.version@
+server:
+  port: 3000
+  servlet:
+    contextPath: /api/v1
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/sw-planets
